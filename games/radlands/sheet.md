@@ -78,14 +78,16 @@ Each turn has **three phases**, then passes to the opponent:
 
 ## Icon Quick Reference
 
-- **: Damage** – Damage an unprotected card (turn it sideways). If a damaged card is damaged again, it's destroyed.
-- **: Destroy** – Immediately discard the target person or flip the camp to destroyed. (Punk → top of deck.)
-- **: Restore** – Rotate a damaged card upright. (It then becomes not ready if it's a person.) A card cannot restore itself.
-- **: Injure** – Same as damage, but **only** hits people.
-- **: Gain Punk** – Place the top deck card facedown in one of your columns (counts as a person).
-- **: Draw** – Draw a card from the deck.
-- **: Gain Extra Water** – Take a black water disc to use **this turn only**, then return it.
-- **: Raid** – See "Raiders" above.
+Note: missing the icons here. See EFFECT ICONS in the manual.
+
+- **Damage** – Damage an unprotected card (turn it sideways). If a damaged card is damaged again, it's destroyed.
+- **Destroy** – Immediately discard the target person or flip the camp to destroyed. (Punk → top of deck.)
+- **Restore** – Rotate a damaged card upright. (It then becomes not ready if it's a person.) A card cannot restore itself.
+- **Injure** – Same as damage, but **only** hits people.
+- **Gain Punk** – Place the top deck card facedown in one of your columns (counts as a person).
+- **Draw** – Draw a card from the deck.
+- **Gain Extra Water** – Take a black water disc to use **this turn only**, then return it.
+- **Raid** – See "Raiders" above.
 
 ## End of the Game
 
