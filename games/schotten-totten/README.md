@@ -50,15 +50,15 @@
 
 ## FAQ
 
-- **What if you cannot play a card?**
+**What if you cannot play a card?**
     - If each unclaimed Stone on your side already has 3 of your cards, you simply **skip playing**. You can still claim Stones if possible.
-- **Do I need to play consecutive cards in order?**
+**Do I need to play consecutive cards in order?**
     - A Run (e.g. 2‑3‑4) is valid regardless of the order you played those cards.
-- **Can I claim a stone with fewer than 3 cards?**
+**Can I claim a stone with fewer than 3 cards?**
     - You cannot claim with only 2 cards, even if you know your opponent can't beat it.
-- **Can I use my hand to prove a claim?**
+**Can I use my hand to prove a claim?**
     - You cannot use hidden cards in your hand to prove a claim. Only visible cards are allowed.
-- **What happens in the Tactic Variant if I only have Tactic cards or have completed all Stones?**
+**What happens in the Tactic Variant if I only have Tactic cards or have completed all Stones?**
     - If you find yourself with only Tactic cards in hand or have already completed all the Stones available on your side of the border, you cannot play Clan cards. In this case, you can choose to pass and play no card or play a Tactic card.
-- **When claiming a stone in the Tactic Variant, do I consider unplayed Tactic cards?** ([source](https://boardgamegeek.com/thread/2273701/proving-youve-won-a-stone-with-tactic-cards))
+**When claiming a stone in the Tactic Variant, do I consider unplayed Tactic cards?** ([source](https://boardgamegeek.com/thread/2273701/proving-youve-won-a-stone-with-tactic-cards))
     - No. For example, if your opponent needs a red 7 and the red 7 is visible on the table, you can claim the stone even if they could potentially play a Joker or other Tactic card.
