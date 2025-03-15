@@ -6,6 +6,7 @@ lang: en
 ## Setup
 
 - Shuffle Region cards and deal **3 face‑down** to each player.
+    - Advanced: Deal **5 Region cards** to each player; each player selects **3 cards** and removes the other 2; shuffle discarded cards into the Region deck.
 - Place the Region deck at the center and reveal *(players + 1)* Region cards.
 - Shuffle Sanctuary cards into a face‑down deck beside the Region deck.
 
@@ -60,6 +61,16 @@ lang: en
     - Each player selects **3 cards** and removes the other 2 unseen.
     - Shuffle the removed cards into the Region deck, then reveal Region cards equal to the number of players.
 
+### Reduced Luck Variant
+
+Valid only for 2 or 3 players. Source: [BGG](https://boardgamegeek.com/thread/3412890/2-3-player-variant)).
+
+- On each turn reveal 6 region cards from the deck, and place them in a 2x3 grid.
+- 2 players:
+    - After selecting a card, discard the other 2 cards from the same row (leaving the other player with 3 cards to choose from)
+- 3 players:
+    - After selecting a card, discard the other card from the same column (leaving the next player with 4 / 2 cards to choose from)
+
 ## FAQ
 
 - **What if there's a tie?** ([source](https://boardgamegeek.com/thread/3204882/tie-for-the-first-place))
@@ -72,3 +83,11 @@ lang: en
     - It refers to your **Clues**. Each Clue lets you draw one extra Sanctuary card beyond the base of one.
 - **What if we run out of Sanctuary cards in a larger game?**
     - It is highly unlikely. If it happens, deal available Sanctuaries in the same order used for claiming Region cards. If none remain, no more can be drawn.
+- **How are resources, day/night, and other features distributed?** ([source](https://boardgamegeek.com/thread/3284463/resource-distribution))
+    - Stones: 18 on Region cards; 9 on Sanctuary cards.
+    - Chimeras: 14 on Region cards; 7 on Sanctuary cards.
+    - Thistles: 10 on Region cards; 5 on Sanctuary cards.
+    - Day cards: 47.
+    - Night cards: 21.
+    - Clues/maps: 16 on Region cards; 8 on Sanctuaries.
+    - Colors are equally distributed: 17 of each on Region cards, 5 of each on Sanctuaries.
